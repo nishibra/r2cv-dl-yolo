@@ -56,7 +56,7 @@ $ pythin3 auto_dl.py
 [ROB-ONE剣道](https://www.robo-one.com/ken2s/index/59)のAutoのための深層学習推論モデルです。
 面、小手、胴とリングのエッジを認識します。
 >download: 
-[Yolo-v3-tiny kendo Model .zip file](http://www.arrc.jp/auto/auto_dl_model.zip)
+[Yolo-v3-tiny kendo Model .zip file](http://www.arrc.jp/auto/kendo_dl.zip)
 
 ![kendo](/pics_dl/kendo.gif)
 
