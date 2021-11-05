@@ -8,7 +8,7 @@
 [3. ROBO-ONE 剣道 Yolo-v3-tiny モデル](#3)
 
 
-[R2CVに戻る](https://github.com/nishibra/r2cv)
+[R2CVに戻る](https://github.com/nishibra/r2cv-1)
 
 <a id="1"></a>
 ## 1.深層学習
