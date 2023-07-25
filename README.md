@@ -37,7 +37,7 @@
  画像の領域を分割するタスクをSegmentation(領域分割)と呼び、Semantic Segmentationは「何が写っているか」で画像領域を分割するタスクのことを指す。
 
 <a id="2"></a>
-## 2. ROBO-ONE autoリモートモデル(深層学習 Yolo v3の推論サンプル)
+## 2-1. ROBO-ONE autoリモートモデル(深層学習 Yolo v3の推論サンプル)
 [ROBO-ONE auto](https://www.robo-one.com/autos/index/63)は二足歩行ロボットによる自律型の格闘競技です。ここではリモート大会のための推論モデルを作成してみました。
 モデルは容量が大きいので、以下よりダウンロードします。
 
@@ -52,6 +52,14 @@ $ pythin3 auto_dl.py
 ![022](/pics_dl/image022.png)
 
 <a id="3"></a>
+## 2-2. ROBO-ONE autoモデル(深層学習 Yolo v3の推論サンプル)
+
+以下はautoでROBO-ONEに参加するためのモデルです。
+上記と同様に使用出来ます。
+
+>auto用モデル
+[auto_model_20230725.zip](http://www.arrc.jp/auto/auto_model_20230725.zip)
+
 ## 3. ROBO-ONE 剣道モデル(深層学習 Yolo v3の推論サンプル)
 [ROB-ONE剣道](https://www.robo-one.com/ken2s/index/59)のAutoのための深層学習推論モデルです。
 面、小手、胴とリングのエッジを認識します。
