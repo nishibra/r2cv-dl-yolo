@@ -60,6 +60,18 @@ $ pythin3 auto_dl.py
 >auto用モデル
 [auto_model_20230725.zip](http://www.arrc.jp/auto/auto_model_20230725.zip)
 
+Classは以下の通りです。
+```
+stand　立っている
+down　ダウンしている
+red　 赤コーナー
+blue　青コーナー
+edge　リングの端
+hand　ロボットの手
+foot　ロボットの足
+head　ロボットの頭
+```
+
 ## 3. ROBO-ONE 剣道モデル(深層学習 Yolo v3の推論サンプル)
 [ROB-ONE剣道](https://www.robo-one.com/ken2s/index/59)のAutoのための深層学習推論モデルです。
 面、小手、胴とリングのエッジを認識します。
