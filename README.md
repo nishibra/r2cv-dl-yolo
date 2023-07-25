@@ -3,7 +3,7 @@
 ## 目次
 [1. 深層学習](#1)
 
-[2. ROBO-ONE auto リモート Yolo-v3-tiny モデル](#2)
+[2. ROBO-ONE auto　Yolo-v3-tiny モデル](#2)
 
 [3. ROBO-ONE 剣道 Yolo-v3-tiny モデル](#3)
 
